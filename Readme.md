@@ -13,3 +13,5 @@ In the Javascript function:
 - Create a string that says which team won and by what score.
 - If it's a tie, say so.
 - Using the lines of Javascript provided, add that line to the div as a new paragraph.
+
+Something to note! The script "Second.js" is in a separate file. In order for this to work, Second.html and Second.js have to be in the same directory. The HTML is loading the Javascript.
